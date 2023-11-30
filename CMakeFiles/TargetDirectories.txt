@@ -1,0 +1,3 @@
+/home/curz/Documents/projects/canaval/compilers/pc2/CMakeFiles/prog.dir
+/home/curz/Documents/projects/canaval/compilers/pc2/CMakeFiles/edit_cache.dir
+/home/curz/Documents/projects/canaval/compilers/pc2/CMakeFiles/rebuild_cache.dir

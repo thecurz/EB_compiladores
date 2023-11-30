@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/curz/Documents/projects/canaval/compilers/pc2/build",
+  "command": "/usr/bin/c++  -I/usr/lib/llvm-15/include  -o CMakeFiles/prog.dir/main.cpp.o -c /home/curz/Documents/projects/canaval/compilers/pc2/main.cpp",
+  "file": "/home/curz/Documents/projects/canaval/compilers/pc2/main.cpp"
+},
+{
+  "directory": "/home/curz/Documents/projects/canaval/compilers/pc2/build",
+  "command": "/usr/bin/c++  -I/usr/lib/llvm-15/include  -o CMakeFiles/prog.dir/pcdosBaseVisitor.cpp.o -c /home/curz/Documents/projects/canaval/compilers/pc2/pcdosBaseVisitor.cpp",
+  "file": "/home/curz/Documents/projects/canaval/compilers/pc2/pcdosBaseVisitor.cpp"
+},
+{
+  "directory": "/home/curz/Documents/projects/canaval/compilers/pc2/build",
+  "command": "/usr/bin/c++  -I/usr/lib/llvm-15/include  -o CMakeFiles/prog.dir/pcdosLexer.cpp.o -c /home/curz/Documents/projects/canaval/compilers/pc2/pcdosLexer.cpp",
+  "file": "/home/curz/Documents/projects/canaval/compilers/pc2/pcdosLexer.cpp"
+},
+{
+  "directory": "/home/curz/Documents/projects/canaval/compilers/pc2/build",
+  "command": "/usr/bin/c++  -I/usr/lib/llvm-15/include  -o CMakeFiles/prog.dir/pcdosParser.cpp.o -c /home/curz/Documents/projects/canaval/compilers/pc2/pcdosParser.cpp",
+  "file": "/home/curz/Documents/projects/canaval/compilers/pc2/pcdosParser.cpp"
+},
+{
+  "directory": "/home/curz/Documents/projects/canaval/compilers/pc2/build",
+  "command": "/usr/bin/c++  -I/usr/lib/llvm-15/include  -o CMakeFiles/prog.dir/pcdosVisitor.cpp.o -c /home/curz/Documents/projects/canaval/compilers/pc2/pcdosVisitor.cpp",
+  "file": "/home/curz/Documents/projects/canaval/compilers/pc2/pcdosVisitor.cpp"
+},
+{
+  "directory": "/home/curz/Documents/projects/canaval/compilers/pc2/build",
+  "command": "/usr/bin/c++  -I/usr/lib/llvm-15/include  -o CMakeFiles/prog.dir/pcdosVisitorImpl.cpp.o -c /home/curz/Documents/projects/canaval/compilers/pc2/pcdosVisitorImpl.cpp",
+  "file": "/home/curz/Documents/projects/canaval/compilers/pc2/pcdosVisitorImpl.cpp"
+}
+]
